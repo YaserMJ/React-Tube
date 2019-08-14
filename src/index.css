@@ -1,0 +1,38 @@
+.hot {
+font-family: 'Permanent Marker', cursive;
+
+}
+.search-bar{
+  margin: 20px;
+  text-align: center;
+  
+}
+
+.search-bar input{
+  width: 50%;
+}
+
+.video-item img{
+  max-width: 64px;
+}
+
+.video-detail .details{
+  margin: 20px;
+  padding: 10px;
+  font-family: 'Rubik', sans-serif;
+
+
+}
+
+.list-group-item{
+  cursor: pointer;
+  font-family: 'Rubik', cursive;
+
+}
+
+.list-group-item:hover{
+  background-color: rgb(255, 160, 160)
+}
+.fa-search {
+  color : red;
+}
