@@ -14,7 +14,7 @@ A React & YouTube API based application that allows users to search for videos,w
 
 
 
-live version here : 
+live version here : https://yt-react-project.herokuapp.com/
 ___
 
 ###### This project is submitted in partial fulfillment of the participation requirements of the Coding Academy by Orange™.
